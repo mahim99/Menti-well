@@ -12,6 +12,11 @@
 }
 
 /* ===== =====>>  Body Font Size  <<===== =====  */
+body{
+  background-image:url("back2.png");
+  background-size: cover;
+  overflow: hidden;
+}
 html {
   font-size: 10px;
 }
